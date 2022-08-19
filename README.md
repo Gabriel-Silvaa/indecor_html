@@ -1,7 +1,6 @@
-#Site de Evento decorativo
+## Site de Evento decorativo
 
 ## Sobre
-
 
 ### Site dedicado para eventos decorativos. Utilizando somente HTML e CSS com a utilização das propriedades do flexbox.
 
