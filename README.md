@@ -14,8 +14,3 @@
 ## Versão Mobile
 
 ![image](https://raw.githubusercontent.com/Gabriel-Silvaa/indecor_html/main/img/screen/mob_01.png) ![image](https://raw.githubusercontent.com/Gabriel-Silvaa/indecor_html/main/img/screen/mob_02.png)
-
-
-
-
-
